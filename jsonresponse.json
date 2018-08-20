@@ -1,0 +1,161 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values"
+    },
+    "updated": {
+      "$t": "2018-08-20T09:31:50.129Z"
+    },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Sheet1"
+    },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/d/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values?alt=json"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "pavanmaddula555"
+        },
+        "email": {
+          "$t": "pavanmaddula555@gmail.com"
+        }
+      }
+    ],
+    "openSearch$totalResults": {
+      "$t": "3"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values/cokwr"
+        },
+        "updated": {
+          "$t": "2018-08-20T09:31:50.129Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "the upcomeing event in Aditya engineering college is Veda,  which is conducted on the dates of 14 and 15.if you want to know the various college events say yes,or else say no."
+        },
+        "content": {
+          "type": "text",
+          "$t": ""
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values/cokwr"
+          }
+        ],
+        "gsx$facts": {
+          "$t": "the upcomeing event in Aditya engineering college is Veda,  which is conducted on the dates of 14 and 15.if you want to know the various college events say yes,or else say no."
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values/cpzh4"
+        },
+        "updated": {
+          "$t": "2018-08-20T09:31:50.129Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "here we have various events, if you want to know the events in aditya engineering college say yes, or else, say no"
+        },
+        "content": {
+          "type": "text",
+          "$t": ""
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values/cpzh4"
+          }
+        ],
+        "gsx$facts": {
+          "$t": "here we have various events, if you want to know the events in aditya engineering college say yes, or else, say no"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values/cre1l"
+        },
+        "updated": {
+          "$t": "2018-08-20T09:31:50.129Z"
+        },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "a,b,c,d,e,f,g."
+        },
+        "content": {
+          "type": "text",
+          "$t": ""
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://spreadsheets.google.com/feeds/list/1PSRyQ2nKESErf2xicokVGuoO1sQclll7ZGLiIs-7q_U/od6/public/values/cre1l"
+          }
+        ],
+        "gsx$facts": {
+          "$t": "a,b,c,d,e,f,g."
+        }
+      }
+    ]
+  }
+}
